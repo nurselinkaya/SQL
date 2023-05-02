@@ -2,4 +2,4 @@ In this repository I share projects I have handled by using SQL. I have used in 
 
 The following projects can be found in the repository:
 
-- Covid 19 Deaths and Vaccinations: 
+#### - Covid 19 Deaths and Vaccinations: Data exploration with SQL and data visualization with Tableau presented.
